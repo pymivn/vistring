@@ -20,7 +20,7 @@ def response():
 
 
 def test_content(response):
-    assert vistring.remove_tones('trăm năm trong cõi người ta') \
+    assert vistring.remove_tones(u'trăm năm trong cõi người ta') \
         == 'tram nam trong coi nguoi ta'
-    assert vistring.remove_tones('chữ tài chữ mệnh khéo là ghét nhau') \
+    assert vistring.remove_tones(u'chữ tài chữ mệnh khéo là ghét nhau') \
         == 'chu tai chu menh kheo la ghet nhau'
