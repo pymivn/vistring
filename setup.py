@@ -17,7 +17,7 @@ requirements = [
 
 setup_requirements = [
     'pytest-runner',
-    # TODO(hvnsweeting): put setup requirements (distutils extensions, etc.) here
+    # TODO(pymivn): put setup requirements (distutils extensions, etc.) here
 ]
 
 test_requirements = [
@@ -32,7 +32,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Viet Hung Nguyen",
     author_email='hvn@familug.org',
-    url='https://github.com/hvnsweeting/vistring',
+    url='https://github.com/pymivn/vistring',
     packages=find_packages(include=['vistring']),
     include_package_data=True,
     install_requires=requirements,

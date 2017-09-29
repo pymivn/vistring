@@ -6,15 +6,15 @@ vistring
 .. image:: https://img.shields.io/pypi/v/vistring.svg
         :target: https://pypi.python.org/pypi/vistring
 
-.. image:: https://img.shields.io/travis/hvnsweeting/vistring.svg
-        :target: https://travis-ci.org/hvnsweeting/vistring
+.. image:: https://img.shields.io/travis/pymivn/vistring.svg
+        :target: https://travis-ci.org/pymivn/vistring
 
 .. image:: https://readthedocs.org/projects/vistring/badge/?version=latest
         :target: https://vistring.readthedocs.io/en/latest/?badge=latest
         :alt: Documentation Status
 
-.. image:: https://pyup.io/repos/github/hvnsweeting/vistring/shield.svg
-     :target: https://pyup.io/repos/github/hvnsweeting/vistring/
+.. image:: https://pyup.io/repos/github/pymivn/vistring/shield.svg
+     :target: https://pyup.io/repos/github/pymivn/vistring/
      :alt: Updates
 
 
