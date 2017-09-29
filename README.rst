@@ -24,6 +24,21 @@ Python library for handling Vietnamese string, especially with tones
 * Free software: BSD license
 * Documentation: https://vistring.readthedocs.io.
 
+Install
+-------
+
+::
+
+  $ pip install vistring
+
+Usage
+-----
+
+Remove tones::
+
+  >>> import vistring
+  >>> vistring.remove_tones(u'Em ơi có bao nhiêu? Sáu mươi năm cuộc đời!')
+  'Em oi co bao nhieu? Sau muoi nam cuoc doi!'
 
 Features
 --------
