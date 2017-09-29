@@ -27,7 +27,7 @@ test_requirements = [
 
 setup(
     name='vistring',
-    version='0.1.0',
+    version='0.2.0',
     description="Python library for handling Vietnamese string, especially with tones",
     long_description=readme + '\n\n' + history,
     author="Viet Hung Nguyen",
